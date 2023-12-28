@@ -2,6 +2,7 @@
 Primitives unsupervised Clustering für Ausschnitt neuer Ostfriedhof -> wie weit kommt man damit und welche Clustergröße?
 
 ## classification_Augsburg_Sentinel:
+Link: (Notebooks_funktionieren/classification_Augsburg_Sentinel.ipynb)
 Abwandlung von Patrick Grays Notebook zu Küstenbeispiel auf Augsburg
 * Input: **Sentinel 2** Szene aus dem Kurs
 * **Composite** der Bänder
