@@ -1,5 +1,6 @@
 ## Clustering1:
-Primitives unsupervised Clustering für Ausschnitt neuer Ostfriedhof -> wie weit kommt man damit und welche Clustergröße?
+Link: [Clustering1.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/Clustering1.ipynb) <br>
+Primitives unsupervised Clustering für Ausschnitt neuer Ostfriedhof -> **TODO**: wie weit kommt man damit und welche Clustergröße?
 
 ## classification_Augsburg_Sentinel:
 Link: [classification_Augsburg_Sentinel.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_Augsburg_Sentinel.ipynb) <br>
@@ -42,3 +43,4 @@ Zur Veranschaulichung, wie sich unterschiedliche Modelle bei Punkten oder Polygo
 Aktueller Input:
 * Punkte: von Irada
 * Polygone: 40 Input Polygone für Augsburg
+* **TODO**: Anpassen für wirklich verwendete Daten
