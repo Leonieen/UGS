@@ -47,10 +47,10 @@ Aktueller Input:
 
 ## Trainingsdaten generieren:
 Auf Orthofotoebene: Bilder und Trainingsdaten via GeoSAM <br>
-* Für größere Features wie Wege, Gebäude oder Bäume: [input_prompts.ipynb]()
+* Für größere Features wie Wege, Gebäude oder Bäume: [input_prompts.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/input_prompts.ipynb)
  * Festlegen, was Festure ist (Vordergrund) und als Hintergrund angrenzende Gebiete markieren
  * Anschließend als Vektor exportieren
-* Für kleinere Features, wie Grabsteine, Bänke, etc: [box_prompts.ipynb]()
+* Für kleinere Features, wie Grabsteine, Bänke, etc: [box_prompts.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/box_prompts.ipynb)
  * Feature mittels BBox markieren
  * Anschließend als Vektore exportieren
 * Am Ende alle exportierten Vektor Features zu einem Datensatz mit entsprechenden Klassen zusammenfügen
