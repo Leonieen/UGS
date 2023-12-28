@@ -2,7 +2,7 @@
 Primitives unsupervised Clustering für Ausschnitt neuer Ostfriedhof -> wie weit kommt man damit und welche Clustergröße?
 
 ## classification_Augsburg_Sentinel:
-Link: [classification_Augsburg_Sentinel.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_Augsburg_Sentinel.ipynb)
+Link: [classification_Augsburg_Sentinel.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_Augsburg_Sentinel.ipynb) <br>
 Abwandlung von Patrick Grays Notebook zu Küstenbeispiel auf Augsburg
 * Input: **Sentinel 2** Szene aus dem Kurs
 * **Composite** der Bänder
@@ -18,6 +18,7 @@ Abwandlung von Patrick Grays Notebook zu Küstenbeispiel auf Augsburg
 * **TODO**: bessere Trainingsdaten und Klassen -> wichtig für **Ontologie**
 
 ## classification_landcover:
+Link: [classification_landcover.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_landcover.ipynb) <br>
 Erweiterung des classification_Augsburg_Sentinel Notebooks
 * Input: **Sentinel 2** Szene aus dem Kurs
 * **Composite** der Bänder
