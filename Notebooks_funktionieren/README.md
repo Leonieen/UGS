@@ -37,6 +37,7 @@ Erweiterung des classification_Augsburg_Sentinel Notebooks
 * Prediction auch für **DecisionTree**
 
 ## models:
+Link: [models.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/models.ipynb) <br>
 Zur Veranschaulichung, wie sich unterschiedliche Modelle bei Punkten oder Polygonen verhalten, muss noch angepasst werden, was die Daten betrifft <br>
 Aktueller Input:
 * Punkte: von Irada
