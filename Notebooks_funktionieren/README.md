@@ -55,3 +55,31 @@ Auf Orthofotoebene: Bilder und Trainingsdaten via GeoSAM <br>
  * Anschließend als Vektore exportieren
 * Am Ende alle exportierten Vektor Features zu einem Datensatz mit entsprechenden Klassen zusammenfügen
 * Modelle aus z.B. classification_landcover.ipynb können dann mit den Fotos und Daten traininert werden
+
+## Trainingsdaten OSM:
+Aus OSM Daten Trainingsdaten generieren und exportieren <br>
+Link: [trainingsdata_osm.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/trainingsdata_osm.ipynb)
+Sinnvolle Kategorien:
+* leisure: park
+* leisure; playground
+* amenity: funeral_hall
+* amenity: bench
+* highway: footway
+* historic: memorial
+* landuse: s´cemetery
+* landuse: grass
+* landuse: recreation_ground
+* building: True
+* Zusammenfassen aller Kategorien, Spalte für Klasse und exportieren
+* Alles als Polygone
+* **TODO**: bench und footway Buffer und als Polygon, aktuell noch nicht in Trainingsdaten
+
+## Klassifizieren Sentinel OSM:
+Verschiedene Modelle aus Sentinel 2 Szene angewandt mit den exportiereten OSM Daten als Trainingsdaten <br>
+Link: [trainingsdata_osm.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/trainingsdata_osm.ipynb)
+
+## Klassifizieren Ortho OSM:
+Raster durch GeoSAM exportiert und OSM als Trainingsdaten
+Link: [classification_landcover_ortho.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_landcover_ortho.ipynb)
+funktioniert, aber durchaus sehr Zeitintensiv
+
