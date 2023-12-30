@@ -76,7 +76,7 @@ Sinnvolle Kategorien:
 
 ## Klassifizieren Sentinel OSM:
 Verschiedene Modelle aus Sentinel 2 Szene angewandt mit den exportiereten OSM Daten als Trainingsdaten <br>
-Link: [trainingsdata_osm.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/trainingsdata_osm.ipynb)
+Link: [classification_landcover_osm.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_landcover_osm.ipynb)
 
 ## Klassifizieren Ortho OSM:
 Raster durch GeoSAM exportiert und OSM als Trainingsdaten
