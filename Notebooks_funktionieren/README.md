@@ -1,3 +1,6 @@
+![image](https://github.com/Leonieen/UGS/assets/48885814/f9dcc770-3a02-4722-aad1-2f44e22de53a)
+
+
 ## Clustering1:
 Link: [Clustering1.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/Clustering1.ipynb) <br>
 Primitives unsupervised Clustering für Ausschnitt neuer Ostfriedhof -> **TODO**: wie weit kommt man damit und welche Clustergröße?
