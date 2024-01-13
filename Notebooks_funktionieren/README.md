@@ -86,3 +86,8 @@ Raster durch GeoSAM exportiert und OSM als Trainingsdaten
 Link: [classification_landcover_ortho.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_landcover_ortho.ipynb)
 funktioniert, aber durchaus sehr Zeitintensiv
 
+## Update nach Meeting 10.01.2024:
+Nur Klassen Grün nicht Grün <br>
+Link: [classification_OnlyGreens.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_OnlyGreens.ipynb) <br>
+Klassen Grün nicht Grün + Buildings <br>
+Link: [classification_OnlyGreensBuildings.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_OnlyGreensBuildings.ipynb) <br>
