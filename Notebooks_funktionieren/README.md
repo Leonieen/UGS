@@ -91,3 +91,7 @@ Nur Klassen Grün nicht Grün <br>
 Link: [classification_OnlyGreens.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_OnlyGreens.ipynb) <br>
 Klassen Grün nicht Grün + Buildings <br>
 Link: [classification_OnlyGreensBuildings.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/classification_OnlyGreensBuildings.ipynb) <br>
+
+## Update 24.01.2024: XGBoost
+Link: [raster_classification.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/raster_classification.ipynb) <br>
+Zusätzlich auch Validation data und Boosting -> große Verbesserung für NotGreen, Green und Buildings
