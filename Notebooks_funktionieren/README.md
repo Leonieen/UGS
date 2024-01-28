@@ -95,3 +95,9 @@ Link: [classification_OnlyGreensBuildings.ipynb](https://github.com/Leonieen/UGS
 ## Update 24.01.2024: XGBoost
 Link: [raster_classification.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/raster_classification.ipynb) <br>
 Zusätzlich auch Validation data und Boosting -> große Verbesserung für NotGreen, Green und Buildings
+
+## Level 1 28.01.2024:
+![image](https://github.com/Leonieen/UGS/assets/48885814/c2be2b8a-096b-433a-8204-ee435c9a53a6)
+
+## Level 2 28.01.2024:
+![image](https://github.com/Leonieen/UGS/assets/48885814/11c3f39c-335f-43e2-8c44-813fb5be1858)
