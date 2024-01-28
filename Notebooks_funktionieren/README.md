@@ -97,8 +97,9 @@ Link: [raster_classification.ipynb](https://github.com/Leonieen/UGS/blob/main/No
 Zusätzlich auch Validation data und Boosting -> große Verbesserung für NotGreen, Green und Buildings
 
 ## Level 1 28.01.2024:
+Link: [raster_classification_augsburg.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/raster_classification_augsburg.ipynb)
 ![image](https://github.com/Leonieen/UGS/assets/48885814/c2be2b8a-096b-433a-8204-ee435c9a53a6)
 
 ## Level 2 28.01.2024:
-Link: [level_2_classification_cemetery.ipyn](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/level_2_classification_cemetery.ipynb)
+Link: [level_2_classification_cemetery.ipynb](https://github.com/Leonieen/UGS/blob/main/Notebooks_funktionieren/level_2_classification_cemetery.ipynb)
 ![image](https://github.com/Leonieen/UGS/assets/48885814/11c3f39c-335f-43e2-8c44-813fb5be1858)
